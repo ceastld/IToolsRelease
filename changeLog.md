@@ -1,5 +1,11 @@
 https://github.com/ceastld/IToolsRelease/releases
 
+# v0.1.15
+* 修复版本判断的问题，以及导致生成的子程序无法使用的问题
+* 优化版本控制
+
+# v0.1.11
+* 修复动作被删除过后，超级菜单报错的问题
 
 # v0.1.10
 * 使用图标控件的 DefaultIconBrush 属性
@@ -17,3 +23,4 @@ https://github.com/ceastld/IToolsRelease/releases
 * 禁止收藏夹首页被删除
 * 修复文件菜单无法打开的问题
 * 开发批量分享动作功能，方便一次性发布
+
